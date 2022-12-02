@@ -1,0 +1,17 @@
+newmtl _Anemone01___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl _Anemone02___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            

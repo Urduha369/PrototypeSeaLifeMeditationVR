@@ -1,0 +1,49 @@
+newmtl 01___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl 04___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl 02___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl 03___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl 05___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl 06___Default
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            

@@ -1,0 +1,33 @@
+newmtl Mat
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl Brown
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl WhiteShell
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            newmtl GreenSkin
+            Ns 500
+            Ka 1 1 1
+            Kd 1 1 1
+            Ks 1 1 1
+            d 1
+            illum 2
+
+            
