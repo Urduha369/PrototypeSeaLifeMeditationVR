@@ -12,5 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ShapesXR_SeaLfe.unity
     guid: 1bfa9a2d3a848c04584244189439458f
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 92331c5ff47678c469f12a244ed0cfa9,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fcfbb80a7518e404784072f8391e6881,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9a95e0587bfb4884a9a23d8080cd458c,
       type: 2}
